@@ -43,7 +43,7 @@ Whether you're a beginner, practitioner, or researcher, this repo provides resou
 
 New to AI Engineering? Start here:
 
-1. **Complete Beginners**: Check out the [AI Engineering Roadmap](./ai-engineering-roadmap) for a comprehensive learning path
+1. **Complete Beginners**: Check out the [AI Engineering Book](./books) for a comprehensive learning path
 2. **Learn the Basics**: Start with [Beginner Projects](#-beginner-projects) like OCR apps and simple RAG implementations
 3. **Build Your Skills**: Move to [Intermediate Projects](#-intermediate-projects) with agents and complex workflows
 4. **Master Advanced Concepts**: Tackle [Advanced Projects](#-advanced-projects) including fine-tuning and production systems
