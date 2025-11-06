@@ -24,6 +24,8 @@ AI Engineering is advancing rapidly, and staying at the forefront requires both 
 
 Whether you're a beginner, practitioner, or researcher, this repo provides resources for all skill levels to experiment and succeed in AI engineering.
 
+Add new resource
+
 ---
 
 ## 📋 Table of Contents
