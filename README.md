@@ -148,6 +148,12 @@ Multi-component systems, agentic workflows, and advanced features for experience
 - [**KitOps MCP**](./kitops-mcp) - ML model management with KitOps
 - [**Stagehand × MCP-Use**](./stagehand%20x%20mcp-use) - Web automation with Stagehand MCP
 
+
+#### LLM Engineering (LLM)
+- [**LLM ENGINEERING**](./LLM_Engineering) - Handbook  on LLM enginering
+
+
+
 #### Model Comparison & Evaluation
 - [**Evaluation and Observability**](./eval-and-observability) - E2E RAG evaluation with CometML Opik
 - [**Llama 4 vs DeepSeek-R1**](./llama-4_vs_deepseek-r1) - Compare models using RAG
