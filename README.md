@@ -12,7 +12,7 @@
 
 # AI Engineering Hub 🚀
 
-Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI!
+Welcome to the ** Devscourt AI Engineering Hub** - your comprehensive resource for learning and building with AI!
 
 ## 🌟 Why This Repo?
 
