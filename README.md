@@ -137,6 +137,7 @@ Multi-component systems, agentic workflows, and advanced features for experience
 - [**Multimodal RAG with AssemblyAI**](./multimodal-rag-assemblyai) - Audio + vector database + CrewAI
 
 #### MCP (Model Context Protocol)
+- [**MCP The illustrated Book**](./MCP -The illustrated Book) - MCP illustrated guidebook with hands-on projects
 - [**Cursor Linkup MCP**](./cursor_linkup_mcp) - Custom MCP with deep web search
 - [**EyeLevel MCP RAG**](./eyelevel-mcp-rag) - MCP for RAG over complex docs
 - [**LlamaIndex MCP**](./llamaindex-mcp) - Local MCP client with LlamaIndex
